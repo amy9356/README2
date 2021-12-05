@@ -16,4 +16,6 @@ Open source SW homework 2
 
 ### answer
 `:%s/sublime\|emacs/vim/g<CR>ZZ`
-
++ %s : 단어를 치환하기 위함
++ /sublime\|emacs/vim  : sublime, emacs를 vim으로 변경
++ ZZ : 저장하고 종료합니다.
