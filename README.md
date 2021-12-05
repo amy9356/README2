@@ -16,3 +16,4 @@ Open source SW homework 2
 
 ### answer
 `:%s/sublime\|emacs/vim/g<CR>ZZ`
+
