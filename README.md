@@ -1,5 +1,5 @@
 # sw_2_20185017
-Open source SW homework 2..
+Open source SW homework 2...
 
 ## 1번 문제
 ![ubuntu - VMware Workstation 15 Player (Non-commercial use only) 2021-12-05 23-19-36](https://user-images.githubusercontent.com/77059736/144750623-bb5dd5aa-aaf1-4974-b3a0-754ad3832173.gif)
